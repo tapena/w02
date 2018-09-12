@@ -4,4 +4,4 @@ https://github.com/tapena/conference_app
 
 1. Discuss an active record query that you used (from the documentation) and how it works.
 
-I used the 
+I used the Speaker.all

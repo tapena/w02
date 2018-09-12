@@ -105,7 +105,7 @@ In the terminal, run this command to tell your rails app to include the new gem:
 ```bash
 bundle install
 #or just
-bundle
+bun
 ```
 Skim through [FFaker's Documentation](https://github.com/ffaker/ffaker). Then, use [this reference](https://github.com/ffaker/ffaker/blob/master/REFERENCE.md) for syntax. Try to create new speakers using the ffaker syntax in your `db/seeds.rb` file. Seed the database and check the console to see all your speakers!
 
